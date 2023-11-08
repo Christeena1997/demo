@@ -2,7 +2,7 @@ package Arraylist1;
 
 public class Mobile {
 	private String brand;
-	private int price;
+	private int price;//price
 	private String color;
 	private float rating;
 	private int edition;

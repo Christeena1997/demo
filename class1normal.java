@@ -6,7 +6,7 @@ public class class1normal {
 	public static void main(String[] args) {
 		ArrayList<Integer> nums = new ArrayList<>();
 		nums.add(24);
-		nums.add(6);
+		nums.add(6);//add
 		nums.add(35);
 		nums.add(80);
 		nums.add(99);
